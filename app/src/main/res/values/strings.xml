@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Posologie de médicaments</string>
+    <string-array name="type_analyse_suiv">
+        <item>Clairance rénale</item>
+        <item>Bilirubine</item>
+        <item>Tgo/tgp</item>
+        <item>Age</item>
+        <item>Poid</item>
+        <item>Sexe</item>
+        <item>Enceinte</item>
+    </string-array>
+</resources>

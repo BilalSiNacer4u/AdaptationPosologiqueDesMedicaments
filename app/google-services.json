@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "419739974987",
+    "firebase_url": "https://neptune-soft.firebaseio.com",
+    "project_id": "neptune-soft",
+    "storage_bucket": "neptune-soft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419739974987:android:96f760c2d592b541483cce",
+        "android_client_info": {
+          "package_name": "com.fsciencesunivsetifdz.posologiemdicaments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbv-fubVYPh6jJpxNEZT033_sUDherz7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419739974987:android:6f33dc5428788772483cce",
+        "android_client_info": {
+          "package_name": "com.neptunesoft.bacdz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbv-fubVYPh6jJpxNEZT033_sUDherz7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419739974987:android:be8ed299fe23ec17483cce",
+        "android_client_info": {
+          "package_name": "com.neptunesoft.qrbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbv-fubVYPh6jJpxNEZT033_sUDherz7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419739974987-l1sfd66mrm61i9cl7ejofn49gjpciodg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

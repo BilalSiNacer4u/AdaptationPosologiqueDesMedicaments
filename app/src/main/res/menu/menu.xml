@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/grp1"
+        android:menuCategory="secondary">
+        <item
+            android:id="@+id/item_about"
+            android:title="à propos de l'application"/>
+    </group>
+    <group
+        android:id="@+id/grp2"
+        android:menuCategory="container">
+        <item
+            android:id="@+id/item_profil"
+            android:title="profil"/>
+        <item
+            android:id="@+id/item_logout"
+            android:title="déconnecter"/>
+    </group>
+    <group
+        android:id="@+id/grp3"
+        android:menuCategory="system">
+        <item
+            android:id="@+id/item_close"
+            android:title="fermer l'application"/>
+    </group>
+</menu>

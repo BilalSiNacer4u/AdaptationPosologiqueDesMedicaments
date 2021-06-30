@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/firebrick</item>
+        <item name="colorPrimaryVariant">@color/firebrickdark</item>
+        <item name="colorOnPrimary">@color/snow</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/firebrick</item>
+        <item name="colorSecondaryVariant">@color/firebrickdark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="queryHint">Chercher</item>
+    </style>
+
+    <style name="whiteAccent" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorAccent">@color/firebrick</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/firebrick</item>
+        <item name="android:textColorPrimary">@color/raisin_black</item>
+        <item name="android:textColorSecondary">@color/raisin_black</item>
+        <item name="android:text">@color/raisin_black</item>
+        <item name="android:background">@color/snow</item>
+        <item name="android:layoutDirection">rtl</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:colorAccent">@color/snow</item>
+        <item name="android:textColor">@color/firebrick</item>
+        <item name="android:textColorPrimary">@color/raisin_black</item>
+    </style>
+</resources>
